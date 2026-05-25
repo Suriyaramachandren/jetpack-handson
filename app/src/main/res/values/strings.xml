@@ -1,3 +1,4 @@
 <resources>
     <string name="app_name">JetpackComposeHandsOn</string>
+    <string name="test_string">Hello Android Studio!</string>
 </resources>
